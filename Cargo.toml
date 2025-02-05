@@ -4,11 +4,13 @@ members = [
   "mightybuga_bsc",
   "libs/logging",
   "libs/engine",
+  "libs/process_calibration",
   "libs/timer_based_buzzer_interface",
   "libs/hal_button",
   "libs/hal_encoder_stm32f1xx",
   "apps/hello_world",
   "apps/line_follower",
+  "apps/line_sensor_simulator",
 ]
 
 resolver = "2"

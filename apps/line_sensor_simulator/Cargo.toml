@@ -1,0 +1,9 @@
+[package]
+name = "line_sensor_simulator"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+process_calibration = { path = "../../libs/process_calibration" }
+
+rand = "0.8"
